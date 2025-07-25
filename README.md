@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently  working on Next.js<br>I'm currently learning AI <br>I'm looking for help with AI integration 
+I'm currently  working on Next.js<br>I'm currently learning AI <br>
 
 
 ## 🌐 Socials:
